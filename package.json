@@ -1,0 +1,22 @@
+{
+  "name": "@entrinsik/informer-liveexcel-basic-auth",
+  "version": "1.0.0",
+  "description": "Patches basic auth for pre 5.4 versions so domains other than local maybe used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entrinsik-org/informer-liveexcel-basic-auth.git"
+  },
+  "author": "amoro99 (Andrew Morovati)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entrinsik-org/informer-liveexcel-basic-auth/issues"
+  },
+  "homepage": "https://github.com/entrinsik-org/informer-liveexcel-basic-auth#readme",
+  "dependencies": {
+    "lodash": "~3.10.1"
+  }
+}
